@@ -1,3 +1,3 @@
 # welcome
--[home]{index.md}
--[work]{visuals}
+-[home](index.md)
+-[work](visuals)
